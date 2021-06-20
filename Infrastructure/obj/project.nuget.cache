@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PeGcspu++jVasyi4uZVGnZoLvfTA46Jwbx18vOn3YILgWzWWDngrYQD+f+9KBqwApz/snFaDvHu0iv5ls0poqg==",
+  "dgSpecHash": "1V9o+xeyLLvzvITgcwIiFaGLFZOHLn0hTce4W/swwSV+lD2xqdLfHukzVsPKElqnJIerxMOCV7l3EnUUQsBtug==",
   "success": true,
-  "projectFilePath": "E:\\Build an E-Commerce App with .NET Core + Angular\\SKINET\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "E:\\Build_E-Commerce_App_NET5_Angular\\SKINET\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ajeesh\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.3\\microsoft.data.sqlite.core.5.0.3.nupkg.sha512",
     "C:\\Users\\Ajeesh\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

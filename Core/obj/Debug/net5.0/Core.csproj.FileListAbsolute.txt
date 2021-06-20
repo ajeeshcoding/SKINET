@@ -9,3 +9,16 @@ E:\Build an E-Commerce App with .NET Core + Angular\SKINET\Core\obj\Debug\net5.0
 E:\Build an E-Commerce App with .NET Core + Angular\SKINET\Core\obj\Debug\net5.0\Core.dll
 E:\Build an E-Commerce App with .NET Core + Angular\SKINET\Core\obj\Debug\net5.0\ref\Core.dll
 E:\Build an E-Commerce App with .NET Core + Angular\SKINET\Core\obj\Debug\net5.0\Core.pdb
+E:\Build an E-Commerce App with .NET Core + Angular\SKINET\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+E:\Build_E-Commerce_App_NET5_Angular\SKINET\Core\bin\Debug\net5.0\Core.deps.json
+E:\Build_E-Commerce_App_NET5_Angular\SKINET\Core\bin\Debug\net5.0\Core.dll
+E:\Build_E-Commerce_App_NET5_Angular\SKINET\Core\bin\Debug\net5.0\ref\Core.dll
+E:\Build_E-Commerce_App_NET5_Angular\SKINET\Core\bin\Debug\net5.0\Core.pdb
+E:\Build_E-Commerce_App_NET5_Angular\SKINET\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+E:\Build_E-Commerce_App_NET5_Angular\SKINET\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Build_E-Commerce_App_NET5_Angular\SKINET\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+E:\Build_E-Commerce_App_NET5_Angular\SKINET\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+E:\Build_E-Commerce_App_NET5_Angular\SKINET\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+E:\Build_E-Commerce_App_NET5_Angular\SKINET\Core\obj\Debug\net5.0\Core.dll
+E:\Build_E-Commerce_App_NET5_Angular\SKINET\Core\obj\Debug\net5.0\ref\Core.dll
+E:\Build_E-Commerce_App_NET5_Angular\SKINET\Core\obj\Debug\net5.0\Core.pdb

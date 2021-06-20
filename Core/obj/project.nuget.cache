@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9bnlDE5vZJwqbze/244zPZ8JXWCjhkc3ABRvs/6kkqr9LwuruYTd/yvMKMnhbt7j+vMvrNIu2XokEAZnnxVO7w==",
+  "dgSpecHash": "mC+Vg+WJUPOlUtsc4We+jz8+Y44qaaZmmt7PwDoCV8McefQiRg5jajRr9dNs6Gbqg+PfhJ9OEq3PUzFFgpuAmg==",
   "success": true,
-  "projectFilePath": "E:\\Build an E-Commerce App with .NET Core + Angular\\SKINET\\Core\\Core.csproj",
+  "projectFilePath": "E:\\Build_E-Commerce_App_NET5_Angular\\SKINET\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
